@@ -1,0 +1,4 @@
+<resources>
+    <string name="net_loading">loading...</string>
+    <string name="downloading">start download</string>
+</resources>

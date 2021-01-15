@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ProgressLoadingView属性-->
+    <declare-styleable name="ProgressLoadingView">
+        <attr name="bottom_color" format="color"/>
+        <attr name="top_color" format="color"/>
+        <attr name="ring_width" format="dimension"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+    </declare-styleable>
+
+</resources>
